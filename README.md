@@ -1,1 +1,2 @@
 # Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.
+Develop an automated trading algorithm that utilizes Q-learning to make purchasing/selling decisions for financial assets. Formulate a trading strategy based on Q-learning and validate it by utilizing historical market data to maximize profits, evaluate the trading algorithm's performance in terms of Return on Investment (ROI).
